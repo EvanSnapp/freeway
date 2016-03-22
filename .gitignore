@@ -1,0 +1,6 @@
+.DS_Store
+kafka-offsets
+spec/integration/Kafka-offsets/.
+spec/integration/StoreOffsetsInstance1/.
+spec/integration/StoreOffsetsInstance2/.
+node_modules
